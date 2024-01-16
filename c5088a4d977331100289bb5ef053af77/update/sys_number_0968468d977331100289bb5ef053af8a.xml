@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_1096366_dusra_0_hellllooo_ji">x_1096366_dusra_0_hellllooo_ji</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>HEL</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-16 06:41:48</sys_created_on>
+        <sys_id>0968468d977331100289bb5ef053af8a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>HEL</sys_name>
+        <sys_package display_value="dusra test" source="x_1096366_dusra_0">c5088a4d977331100289bb5ef053af77</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="dusra test">c5088a4d977331100289bb5ef053af77</sys_scope>
+        <sys_update_name>sys_number_0968468d977331100289bb5ef053af8a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-16 06:41:48</sys_updated_on>
+    </sys_number>
+</record_update>

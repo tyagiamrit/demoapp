@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="System Import Sets">import_sets</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Dusra 0 1705387274418</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1096366_dusra_0_1705387274418</name>
+        <order>1100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-16 06:41:17</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a548c28d977331100289bb5ef053af0c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Dusra 0 1705387274418</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="dusra test" source="x_1096366_dusra_0">c5088a4d977331100289bb5ef053af77</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="dusra test">c5088a4d977331100289bb5ef053af77</sys_scope>
+        <sys_update_name>sys_app_module_a548c28d977331100289bb5ef053af0c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-16 06:41:17</sys_updated_on>
+        <timeline_page/>
+        <title>Dusra 0 1705387274418</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="dusra test">c5088a4d977331100289bb5ef053af77</application>
+        <file_path/>
+        <instance_id>9b6f3ad8dbefd118f492c59705961967</instance_id>
+        <instance_name>dev145392</instance_name>
+        <name>sys_app_module_a548c28d977331100289bb5ef053af0c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="System Import Sets">import_sets</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Dusra 0 1705387274418</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1096366_dusra_0_1705387274418</name><order>1100</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-01-16 06:41:17</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>a548c28d977331100289bb5ef053af0c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Dusra 0 1705387274418</sys_name><sys_overrides/><sys_package display_value="dusra test" source="x_1096366_dusra_0">c5088a4d977331100289bb5ef053af77</sys_package><sys_policy/><sys_scope display_value="dusra test">c5088a4d977331100289bb5ef053af77</sys_scope><sys_update_name>sys_app_module_a548c28d977331100289bb5ef053af0c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-01-16 06:41:17</sys_updated_on><timeline_page/><title>Dusra 0 1705387274418</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1307564231</payload_hash>
+        <record_name>Dusra 0 1705387274418</record_name>
+        <reverted_from/>
+        <source>09088a4d977331100289bb5ef053afa1</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-16 06:41:17</sys_created_on>
+        <sys_id>e948c28d977331100289bb5ef053af0f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18d1100bd590000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-16 06:41:17</sys_updated_on>
+        <type>Module</type>
+        <update_guid>2148c28dab733110ddac4e6486af320f</update_guid>
+        <update_guid_history>2148c28dab733110ddac4e6486af320f:1307564231</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Dusra 0 1705387274418">c368868d977331100289bb5ef053afe6</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-16 06:41:56</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>3eac0effc32847ad849242ad646dde89</sys_id>
+        <sys_metadata>a548c28d977331100289bb5ef053af0c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Dusra 0 1705387274418</sys_name>
+        <sys_package display_value="dusra test" source="x_1096366_dusra_0">c5088a4d977331100289bb5ef053af77</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="dusra test">c5088a4d977331100289bb5ef053af77</sys_scope>
+        <sys_scope_delete display_value="">71bd85c50d6a468abdd8741d1c5bc849</sys_scope_delete>
+        <sys_update_name>sys_app_module_a548c28d977331100289bb5ef053af0c</sys_update_name>
+        <sys_update_version display_value="sys_app_module_a548c28d977331100289bb5ef053af0c">e948c28d977331100289bb5ef053af0f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-16 06:41:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

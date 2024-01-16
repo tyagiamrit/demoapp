@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="0568468d977331100289bb5ef053af4d" label="hellllooo ji" max_length="40" name="x_1096366_dusra_0_hellllooo_ji" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Active until" max_length="40" name="active_until" type="glide_date"/>
+        <element label="HHD Identifier" max_length="40" name="hhd_identifier" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Prototype Evangelist" max_length="40" name="prototype_evangelist" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="State" max_length="40" name="state" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="System Name" max_length="40" name="system_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Unlock Code" max_length="40" name="unlock_code" type="string"/>
+    </element>
+</database>
